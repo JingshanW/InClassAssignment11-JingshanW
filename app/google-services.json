@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "369192719303",
+    "firebase_url": "https://fir-2-79d70.firebaseio.com",
+    "project_id": "fir-2-79d70",
+    "storage_bucket": "fir-2-79d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369192719303:android:3ff6331294bcff14",
+        "android_client_info": {
+          "package_name": "com.example.android.addtofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369192719303-tfonskcbgpnl6kq8rtulqp3hqg9ir7md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZp1EUwrOEiBm_PK-vw-u-zGpAC5jKLIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369192719303:android:900a1ae20612a57f",
+        "android_client_info": {
+          "package_name": "com.example.android.readfromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369192719303-tfonskcbgpnl6kq8rtulqp3hqg9ir7md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZp1EUwrOEiBm_PK-vw-u-zGpAC5jKLIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369192719303:android:6ab4ff04aa58a8f1",
+        "android_client_info": {
+          "package_name": "com.example.android.inclassassignment11_jingshanw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369192719303-tfonskcbgpnl6kq8rtulqp3hqg9ir7md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZp1EUwrOEiBm_PK-vw-u-zGpAC5jKLIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
