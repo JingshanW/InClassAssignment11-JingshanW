@@ -20,7 +20,20 @@ public class Person {
         this.age = age;
         this.alive = alive;
     }
+
+
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", alive=" + alive +
+                '}';
+    }
 }
+
 
 
 
